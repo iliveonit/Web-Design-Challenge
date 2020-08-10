@@ -14,12 +14,12 @@ style.css
 	width: 150px;
 	height: 150px;
 	background: #2db34a;
-	border: 2px solid black;
+	border: 2px solid aqua;
   }
   
   
 body{
-    background-color: #f5a7a7; 
+    background-color: white; 
 }
 
 .navbar{
